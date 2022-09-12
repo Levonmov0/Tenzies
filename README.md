@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Roll until all dice are the same. Click each die to freeze it at its current value between rolls. Try to get lowest score possible and beat your own record. [Livesite]()
+Roll until all dice are the same. Click each die to freeze it at its current value between rolls. Try to get lowest score possible and beat your own record. [Livesite](https://tenzies-levon.netlify.app/)
 
 ## How its made
 
